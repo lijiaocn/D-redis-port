@@ -1,0 +1,5 @@
+{
+	"maxconnection": 10,
+	"minconnection": 5,
+	"targeturl": "znr.io"
+}

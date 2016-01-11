@@ -1,0 +1,25 @@
+{
+	"SourceMasters": [
+		"127.0.0.1:6000",
+		"127.0.0.1:6001",
+		"127.0.0.1:6002",
+		"127.0.0.1:6003"
+	],
+	"DestCluster": "/redis/cluster/21:1417633162239",
+	"APs": [
+		"127.0.0.1:6379",
+		"127.0.0.1:6379"
+	],
+	"ImageRepository": "192.168.202.240:5000/redis-port",
+	"ImageRegistry": "redis-port",
+	"ImageTag": "latest",
+	"DockerTLS": false,
+	"DockerClientCert": "/PATH/client.crt",
+	"DockerClientKey": "/PATH/client.key",
+	"DockerCA": "/PATH/ca.crt",
+	"DockerNodes": [
+		"127.0.0.1:2375",
+		"127.0.0.1:2375"
+	],
+	"ServerAddr": "127.0.0.1:80"
+}

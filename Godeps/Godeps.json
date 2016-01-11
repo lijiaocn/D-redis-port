@@ -1,0 +1,43 @@
+{
+	"ImportPath": "github.com/lijiaocn/D-redis-port",
+	"GoVersion": "go1.5.1",
+	"Deps": [
+		{
+			"ImportPath": "github.com/docopt/docopt-go",
+			"Comment": "0.6.1-5-g854c423",
+			"Rev": "854c423c810880e30b9fecdabb12d54f4a92f9bb"
+		},
+		{
+			"ImportPath": "github.com/fsouza/go-dockerclient",
+			"Rev": "175e1df973274f04e9b459a62cffc49808f1a649"
+		},
+		{
+			"ImportPath": "github.com/garyburd/redigo/internal",
+			"Rev": "836b6e58b3358112c8291565d01c35b8764070d7"
+		},
+		{
+			"ImportPath": "github.com/garyburd/redigo/redis",
+			"Rev": "836b6e58b3358112c8291565d01c35b8764070d7"
+		},
+		{
+			"ImportPath": "github.com/lijiaocn/GoPkgs/config",
+			"Rev": "d9af8edb231a6a211c9baeab844bea902f35b9ae"
+		},
+		{
+			"ImportPath": "github.com/lijiaocn/GoPkgs/container",
+			"Rev": "d9af8edb231a6a211c9baeab844bea902f35b9ae"
+		},
+		{
+			"ImportPath": "github.com/lijiaocn/GoPkgs/generator",
+			"Rev": "d9af8edb231a6a211c9baeab844bea902f35b9ae"
+		},
+		{
+			"ImportPath": "github.com/lijiaocn/GoPkgs/terminal",
+			"Rev": "d9af8edb231a6a211c9baeab844bea902f35b9ae"
+		},
+		{
+			"ImportPath": "github.com/lijiaocn/GoPkgs/version",
+			"Rev": "d9af8edb231a6a211c9baeab844bea902f35b9ae"
+		}
+	]
+}
